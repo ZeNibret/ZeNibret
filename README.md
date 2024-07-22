@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi there! I'm Shegaw Nibret Gelaw, a passionate researcher and developer in the field of medical imaging.
+Hi there! I'm Shegaw, a passionate in the field of medical imaging.
 
 ![GitHub followers](https://img.shields.io/github/followers/ZeNibret?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ZeNibret?style=social)
@@ -9,8 +9,8 @@ Hi there! I'm Shegaw Nibret Gelaw, a passionate researcher and developer in the 
 
 🎓 I'm currently studying Erasmus Mundus joint Master's program in Medical Imaging and Applications (MAIA), coordinated by the University of Girona (UdG, Spain), with partners University of Bourgogne (uB, France) and University of Cassino and Southern Lazio (UNICLAM, Italy).  
 💻 My studies focus on the use of medical images for developing a Computer-Aided Diagnosis (CAD) system, utilizing AI and machine learning to aid healthcare experts in achieving more accurate diagnosis results.  
-👯 I’m looking to collaborate on innovative healthcare technology projects, particularly those focusing on AI-driven diagnostics, telemedicine solutions, and patient data analysis.  
-📫 Contact me at: ze.nibret12@gmail.com  
+👯 I’m looking to collaborate on innovative healthcare technology projects, particularly those focusing on AI-driven diagnostics, and patient data analysis.  
+📫 Contact me at: ze.nibret12@gmail.com | nibret.shegaw@gmail.com |  
 📍 Location: Giovanni Pascoli10, 03043, Cassino, Italy  
 📱 Phone: (+39) 3762241118
 
