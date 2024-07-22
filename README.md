@@ -2,8 +2,8 @@
 
 Hi there! I'm Shegaw Nibret Gelaw, a passionate researcher and developer in the field of medical imaging.
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ZeNibret?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ZeNibret?style=social)
 
 ## About Me
 
@@ -28,7 +28,6 @@ Hi there! I'm Shegaw Nibret Gelaw, a passionate researcher and developer in the 
 ![NumPy](https://img.shields.io/badge/NumPy-1.21.1-blue?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3.1-purple?style=flat&logo=pandas)
 
-
 ### Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5.0-orange?style=flat&logo=tensorflow)
 ![Segmentation Model](https://img.shields.io/badge/Segmentation--Model-1.0.1-blue?style=flat)
@@ -40,10 +39,8 @@ Hi there! I'm Shegaw Nibret Gelaw, a passionate researcher and developer in the 
 ![JSON](https://img.shields.io/badge/JSON-Data-orange?style=flat&logo=json)
 ![XML](https://img.shields.io/badge/XML-Data-blue?style=flat)
 
-
 ### Web Server
 ![Apache](https://img.shields.io/badge/Apache-2.4-blue?style=flat&logo=apache)
-
 
 ### Databases
 ![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat)
@@ -51,20 +48,18 @@ Hi there! I'm Shegaw Nibret Gelaw, a passionate researcher and developer in the 
 
 ## GitHub Stats
 
-![Shegaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiaburbd&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiaburbd&layout=compact&theme=radical)
+![Shegaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeNibret&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeNibret&layout=compact&theme=radical)
 
 ## Contribution Graph
 
-![Shegaw's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=taiaburbd&theme=react-dark)
+![Shegaw's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ZeNibret&theme=react-dark)
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shegaw%20Nibret%20Gelaw-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
 [![Personal Website](https://img.shields.io/badge/Website-YourWebsite-blue?style=flat&logo=wordpress)](https://yourwebsite.com)
-
-
 
 ## Education and Training
 
@@ -82,20 +77,16 @@ University of Burgundy (France), University of Cassino (Italy), University of Gi
 [University of Cassino](https://www.unicas.it/)  
 [University of Girona](https://www.udg.edu/en/)
 
-
-
 ## Networks and Memberships
 
-- **Medical Image Computing and Computer Assisted Intervention Society (MICCAI)**
-- **MedShr community**
-- **African Network for Artificial Intelligence in Biomedical Imaging**
-- **CAMERA Consortium**
-- **Young Africans Leaders Initiative (YALI) Network**
+- ![MICCAI](https://img.shields.io/badge/MICCAI-Medical%20Image%20Computing%20and%20Computer%20Assisted%20Intervention-blue?style=flat&logo=miccai)
+- ![MedShr](https://img.shields.io/badge/MedShr-Community-blue?style=flat&logo=medshr)
+- ![African Network for AI in Biomedical Imaging](https://img.shields.io/badge/African%20Network%20for%20AI%20in%20Biomedical%20Imaging-Member-green?style=flat&logo=ai)
+- ![CAMERA Consortium](https://img.shields.io/badge/CAMERA%20Consortium-Member-orange?style=flat&logo=camera)
+- ![YALI Network](https://img.shields.io/badge/YALI%20Network-Member-blue?style=flat&logo=yali)
 
 ## Publications
 
 **Software Risk Prediction at Requirement and Design Phase: An Ensemble Machine Learning Approach**  
-- Conducted as part of a master's thesis in computer science at the University of Gondar.
-- Presented at the 2023 ICT4DA Conference organized by IEEE.
-- Authors: Y. Assefa, E. Alemneh, S. Nibret, A. Worku, 2023 ICT4DA Conference, IEEE.
-
+Conducted as part of a master's thesis in computer science at the University of Gondar. Presented at the 2023 ICT4DA Conference organized by IEEE.  
+Authors: Y. Assefa, E. Alemneh, S. Nibret, A. Worku, 2023 ICT4DA Conference, IEEE.
