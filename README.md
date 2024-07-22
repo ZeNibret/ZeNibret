@@ -75,33 +75,14 @@ University of Burgundy (France), University of Cassino (Italy), University of Gi
 [University of Girona](https://www.udg.edu/en/)
 
 ## Projects
-
-### Bachelor Degree Projects
-- **Project 1 Name**: Brief description of Project 1.
-  - **Technologies used**: List of technologies used in Project 1.
-  - **GitHub Repository**: [Link to Project 1 Repository](#)
+  - **Machine Learning Projects**: [Link to Project 1 Repository](#)
 
 - **Project 2 Name**: Brief description of Project 2.
   - **Technologies used**: List of technologies used in Project 2.
   - **GitHub Repository**: [Link to Project 2 Repository](#)
 
-### Master's Degree Projects
-- **Project 1 Name**: Brief description of Project 1.
-  - **Technologies used**: List of technologies used in Project 1.
-  - **GitHub Repository**: [Link to Project 1 Repository](#)
 
-- **Project 2 Name**: Brief description of Project 2.
-  - **Technologies used**: List of technologies used in Project 2.
-  - **GitHub Repository**: [Link to Project 2 Repository](#)
 
-### Erasmus Mundus Joint Master in Medical Imaging and Applications (MAIA) Projects
-- **Project 1 Name**: Brief description of Project 1.
-  - **Technologies used**: List of technologies used in Project 1.
-  - **GitHub Repository**: [Link to Project 1 Repository](#)
-
-- **Project 2 Name**: Brief description of Project 2.
-  - **Technologies used**: List of technologies used in Project 2.
-  - **GitHub Repository**: [Link to Project 2 Repository](#)
 
 ## Networks and Memberships
 
