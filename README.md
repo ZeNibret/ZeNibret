@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi there! I'm Shegaw, 
+Hi there! I'm Shegaw,
 
 ![GitHub followers](https://img.shields.io/github/followers/ZeNibret?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ZeNibret?style=social)
@@ -74,6 +74,35 @@ University of Burgundy (France), University of Cassino (Italy), University of Gi
 [University of Cassino](https://www.unicas.it/)  
 [University of Girona](https://www.udg.edu/en/)
 
+## Projects
+
+### Bachelor Degree Projects
+- **Project 1 Name**: Brief description of Project 1.
+  - **Technologies used**: List of technologies used in Project 1.
+  - **GitHub Repository**: [Link to Project 1 Repository](#)
+
+- **Project 2 Name**: Brief description of Project 2.
+  - **Technologies used**: List of technologies used in Project 2.
+  - **GitHub Repository**: [Link to Project 2 Repository](#)
+
+### Master's Degree Projects
+- **Project 1 Name**: Brief description of Project 1.
+  - **Technologies used**: List of technologies used in Project 1.
+  - **GitHub Repository**: [Link to Project 1 Repository](#)
+
+- **Project 2 Name**: Brief description of Project 2.
+  - **Technologies used**: List of technologies used in Project 2.
+  - **GitHub Repository**: [Link to Project 2 Repository](#)
+
+### Erasmus Mundus Joint Master in Medical Imaging and Applications (MAIA) Projects
+- **Project 1 Name**: Brief description of Project 1.
+  - **Technologies used**: List of technologies used in Project 1.
+  - **GitHub Repository**: [Link to Project 1 Repository](#)
+
+- **Project 2 Name**: Brief description of Project 2.
+  - **Technologies used**: List of technologies used in Project 2.
+  - **GitHub Repository**: [Link to Project 2 Repository](#)
+
 ## Networks and Memberships
 
 - ![MICCAI](https://img.shields.io/badge/MICCAI-Medical%20Image%20Computing%20and%20Computer%20Assisted%20Intervention-blue?style=flat&logo=miccai)
@@ -81,4 +110,5 @@ University of Burgundy (France), University of Cassino (Italy), University of Gi
 - ![African Network for AI in Biomedical Imaging](https://img.shields.io/badge/African%20Network%20for%20AI%20in%20Biomedical%20Imaging-Member-green?style=flat&logo=ai)
 - ![CAMERA Consortium](https://img.shields.io/badge/CAMERA%20Consortium-Member-orange?style=flat&logo=camera)
 - ![YALI Network](https://img.shields.io/badge/YALI%20Network-Member-blue?style=flat&logo=yali)
+
 
